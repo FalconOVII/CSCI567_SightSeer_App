@@ -1,14 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:sightseer/chatscreen.dart';
 
-class HomePage extends StatelessWidget{
+class HomePage extends StatelessWidget {
   @override
-  Widget build(BuildContext context){
+  Widget build(BuildContext context) {
     return new Scaffold(
-      appBar: new AppBar(
-        title: new Text("Live Chat"),
+      appBar: AppBar(
+        title: Text("HomePage"),
       ),
-      body: new ChatScreen()
+      body: Center(
+        child: Text('This is the Homepage Swipe Left'),
+      ),
     );
   }
 }
