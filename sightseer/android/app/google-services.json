@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005724574481",
+    "firebase_url": "https://sightseer-c66eb.firebaseio.com",
+    "project_id": "sightseer-c66eb",
+    "storage_bucket": "sightseer-c66eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005724574481:android:869785eb05c441a0",
+        "android_client_info": {
+          "package_name": "com.example.sightseer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005724574481-jphc8petbnviou25dp40eu363t4lnse5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QBHEjSYw8ip3LAHeumjw4haH72N0LAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005724574481-jphc8petbnviou25dp40eu363t4lnse5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
